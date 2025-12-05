@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/XeKjX8p.png" width="180"/>
+ 
   <h1>PhantomEye</h1>
   <p><strong>Advanced OSINT & Recon Tool • 2025</strong></p>
   
