@@ -1,0 +1,4 @@
+rich==13.7.1
+pyfiglet==1.0.4
+requests==2.31.0
+reportlab==4.0.9
