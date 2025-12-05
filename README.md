@@ -6,7 +6,6 @@
   
 </div>
 
-### What it does
 ```bash
 python phantom.py -d [domain]
 
