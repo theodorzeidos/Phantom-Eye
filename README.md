@@ -9,3 +9,10 @@
 ### What it does
 ```bash
 python phantom.py -d [domain]
+
+
+git clone https://github.com/theodorzeidos/PhantomEye.git
+cd PhantomEye
+python -m venv venv && venv\Scripts\activate
+pip install -r requirements.txt
+python phantom.py -d [domain]
