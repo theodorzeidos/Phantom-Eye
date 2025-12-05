@@ -8,4 +8,4 @@
 
 ### What it does
 ```bash
-python phantom.py -d google.com
+python phantom.py -d [domain]
